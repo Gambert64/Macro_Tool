@@ -1,5 +1,5 @@
 """
-Übersetzungsdatei für das Makro-Tool.
+Translation file.
 - Englisch (en)
 - Deutsch (de)
 - Spanisch (es)
