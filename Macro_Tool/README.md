@@ -1,6 +1,6 @@
 # Macro Tool
 
-A simple text macro tool that enhances your productivity by providing quick access to frequently used text snippets. Save any text to function keys (F1-F12) and access them instantly with a single key. Perfect for repetitive tasks or quick text insertion.
+A simple text macro tool that lets you assign custom text to function keys (F1–F12) for quick and easy access. Ideal for automating repetitive typing.
 
 ## Features
 
