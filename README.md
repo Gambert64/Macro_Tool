@@ -41,6 +41,7 @@ A simple text macro tool that lets you assign custom text to function keys (F1â€
 - Python - Main programming language
 - tkinter - For creating the user interface
 - keyboard - For detecting key presses
+- pyperclip - For clipboard copy and paste functionality
 - pyautogui - For automating text input
 - pystray - For the system tray icon
 
