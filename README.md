@@ -11,15 +11,6 @@ A simple text macro tool that lets you assign custom text to function keys (F1â€
 - System tray integration
 - Optional automatic enter key after text insertion
 
-## Features
-
-- Store text macros on 12 function keys (F1-F12)
-- Customizable key bindings
-- Multilingual user interface (English, German, Spanish)
-- Customizable colors for background and text
-- System tray integration for minimized execution
-- Automatic Enter key after text input (optional)
-
 ## Installation
 
 1. Make sure Python 3.x is installed
